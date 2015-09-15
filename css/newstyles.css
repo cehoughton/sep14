@@ -1,0 +1,37 @@
+.intro {
+
+  color: red;
+  font-style: italic;
+
+}
+
+.blah {
+
+  color: green;
+  font-weight: bold;
+
+}
+
+.intro {
+  text-align: center;
+}
+
+.intense {
+  color: purple;
+}
+
+img {
+  float: right;
+}
+
+.sidebar {
+  width: 30%;
+  float: left;
+  background-color: orange;
+
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
